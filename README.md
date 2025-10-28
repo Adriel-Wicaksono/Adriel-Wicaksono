@@ -38,7 +38,13 @@ current_goals: "Obtain an internship for Summer 2026"
 
 ---
 
+### Want to connect?
+<a href="https://www.linkedin.com/in/adriel-wicaksono-333a78343/">
+  <img src="https://skillicons.dev/icons?i=linkedin"
+</a>
+
 <p align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"
 </p>
+
 
