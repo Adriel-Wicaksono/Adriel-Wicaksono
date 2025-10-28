@@ -11,7 +11,8 @@
 ### About Me
 ```yaml
 name: Adriel Wicaksono
-education: (Current) Bachelor's of Science in Computer Science
+education: (Current) Bachelor's of Science
+major: Computer Science
 college: Univerity of Maryland College Park
 fields_of_interest:
   [
