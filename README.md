@@ -29,7 +29,7 @@ current_goals: "Obtain an internship for Summer 2026"
 ---
 
 ### Main Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,eclipse,git,github,js,mongodb,postgres,py,react,vscode,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,eclipse,git,github,mongodb,postgres,py,react,vscode,java,kotlin)](https://skillicons.dev)
 
 ---
 
