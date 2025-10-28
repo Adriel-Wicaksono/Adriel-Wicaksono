@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)&height=150&section=header&text=Hey+Everyone!"
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Hey+Everyone!"
 </p>
 
 
@@ -39,6 +39,6 @@ current_goals: "Obtain an internship for Summer 2026"
 ---
 
 <p align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30)&height=150&section=footer"
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer"
 </p>
 
